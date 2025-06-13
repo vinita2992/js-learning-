@@ -1,14 +1,13 @@
 let score = 33 ;
 
-
-console.log(typeof + score);
-console.log(typeof + (score));
+// console.log(typeof + score);
+// console.log(typeof + (score));
 
 
  let valueInNumber = Number(score);
 
- console.log(typeof valueInNumber);
- console.log(valueInNumber);
+//  console.log(typeof valueInNumber);
+//  console.log(valueInNumber);
 
  //"33" = 33
  // "33abcd" = NaN
@@ -25,5 +24,8 @@ let someNumber = 55;
 
 let someNumberString = String(someNumber);
 
-console.log(typeof someNumberString);
-console.log(typeof someNumber);
+// console.log(typeof someNumberString);
+// console.log(typeof someNumber);
+
+
+/******************* Opration ***********************/
